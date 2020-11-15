@@ -33,4 +33,4 @@ D:\GitHub\DotNetCoreProject\Project1\obj\Debug\netcoreapp3.1\KKTextiles.dll
 D:\GitHub\DotNetCoreProject\Project1\obj\Debug\netcoreapp3.1\KKTextiles.pdb
 D:\GitHub\DotNetCoreProject\Project1\obj\Debug\netcoreapp3.1\KKTextiles.genruntimeconfig.cache
 D:\GitHub\DotNetCoreProject\Project1\obj\Debug\netcoreapp3.1\KKTextiles.csproj.CopyComplete
-D:\GitHub\DotNetCoreProject\Project1\obj\Debug\netcoreapp3.1\Razor\Controllers\Customers.cshtml.g.cs
+D:\GitHub\DotNetCoreProject\Project1\obj\Debug\netcoreapp3.1\Razor\Controllers\CustomersList.cshtml.g.cs
